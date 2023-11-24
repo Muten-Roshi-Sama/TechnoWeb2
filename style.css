@@ -1,0 +1,16 @@
+.titre{
+    font-size: 27px;    
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+body {
+    background-color: solid black;
+    background-position: center;
+
+    background-image: url("chien.avif");
+    background-size: cover; /*Set the background image to cover the entire body */
+    background-repeat: repeat-y;
+}
